@@ -11,9 +11,17 @@
 }
 
 .img {
-  align: center;
+  float: center;
 }
 
 .hot {
   font-style: italic;
+}
+
+.header {
+  text-align: center;
+}
+
+.time {
+  font-weight: bold;
 }
