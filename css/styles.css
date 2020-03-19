@@ -1,0 +1,19 @@
+.row:hover {
+  opacity:100%;
+}
+
+.row {
+  opacity: 50%;
+}
+
+* {
+  border: 1px solid red;
+}
+
+.img {
+  align: center;
+}
+
+.hot {
+  font-style: italic;
+}
